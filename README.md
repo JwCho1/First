@@ -2,3 +2,6 @@
 첫번 째 문서
 
 ![space.png](https://github.com/JwCho1/First/blob/main/img/space.png)
+
+# Second
+두번 째 문서
